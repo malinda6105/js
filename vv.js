@@ -50,7 +50,7 @@ var jwDefaults = {
       }
     }
   },
-  "key": "KEr98nwvEZhqjzKaFHHRE1UNyqSMSy/fbfU4VdQtO1tbDeN4PJyukAcDh7i3+8P6",
+  "key": "ITWMv7t88JGzI0xPwW8I0+LveiXX9SWbfdmt0ArUSyc=",
   "logo": {
     "file": "https://cdn.jwplayer.com/images/kcFtD43E.png",
     "hide": true,
